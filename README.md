@@ -26,9 +26,8 @@
 - 偏振仪：PAX1000VIS/M（Thorlabs, Inc., USA）
 
 整套系统的数学模型为：
-$$
-{{S}_{out}}=M_{BS}^{t}{{M}_{SR}}\left( \delta ,-\beta  \right){{M}_{RM}}{{M}_{SR}}\left( \delta ,\beta  \right)M_{BS}^{r}{{S}_{in}}
-$$
+
+$$S_{out}=M_{BS}^{t} M_{SR}\left( \delta ,-\beta  \right) M_{RM} M_{SR}\left( \delta ,\beta  \right)M_{BS}^{r} S_{in} $$
 
 实测精度如下图所示：
 
