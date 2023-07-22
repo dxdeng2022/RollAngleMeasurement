@@ -15,6 +15,7 @@
 基于斯托克斯的滚转角测量系统，其原理为通过延迟器将滚转角的变化调制到输出光的斯托克斯矢量中，通过对出射斯托克斯矢量的求解进而求解相应的滚转角。其物理模型和实物系统如下图所示。
 
 <img src="images\物理模型.png" alt="物理模型" style="zoom:150%;" />
+<p align="center"><img src="images\物理模型.png" alt="物理模型" style="zoom:150%;"></p>
 
 <img src="images\系统实物.png" alt="系统实物" style="zoom:130%;" />
 
