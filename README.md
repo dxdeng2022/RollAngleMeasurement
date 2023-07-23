@@ -46,6 +46,10 @@ $$S_{out}=M_{BS}^{t} M_{SR}\left( \delta ,-\beta  \right) M_{RM} M_{SR}\left( \d
 
 请确保相应的matlab库安装完成
 
+### 特别鸣谢
+
+**Yangsl, Wangyf, Zhouwg, Wangxs and Prof. Chenxg**
+
 ### 参考文献
 
 [1] Chen X, Liao J, Gu H, et al. Proof of principle of an optical Stokes absolute roll-angle sensor with ultra-large measuring range[J]. Sensors and Actuators A: Physical, 2019, 291: 144-149.
