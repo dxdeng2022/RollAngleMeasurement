@@ -44,11 +44,11 @@ $$S_{out}=M_{BS}^{t} M_{SR}\left( \delta ,-\beta  \right) M_{RM} M_{SR}\left( \d
 
 ### 其他
 
-请确保相应的matlab库安装完成
+请确保相应的Matlab App/包 安装完成
 
 ### 特别鸣谢
 
-**Yangsl, Wangyf, Zhouwg, Wangxs and Prof. Chenxg**
+**Yangsl, Wangyf, Zhouwg, Wangxs and [Prof Chenxg](https://github.com/xiuguochen "Prof. Dr. Xiuguo Chen")**
 
 ### 参考文献
 
