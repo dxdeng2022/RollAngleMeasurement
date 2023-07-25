@@ -27,7 +27,7 @@
 
 整套系统的数学模型为：
 
-$$S_{out}=M_{BS}^{t} M_{SR}\left( \delta ,-\beta  \right) M_{RM} M_{SR}\left( \delta ,\beta  \right)M_{BS}^{r} S_{in} $$
+$$S_{out}=M_{B S}^{t} M_{S R}(\delta,-\beta) M_{R M} M_{S R}(\delta, \beta) M_{B S}^{r} S_{in} $$
 
 实测精度如下图所示：
 
