@@ -48,7 +48,7 @@ $$S_{out}=M_{B S}^{t} M_{S R}(\delta,-\beta) M_{R M} M_{S R}(\delta, \beta) M_{B
 
 ### 特别鸣谢
 
-**Yangsl, [Wangyf](https://github.com/WangYF-learnmore "WangYF-learnmore"), Zhouwg, Wangxs and [Prof Chenxg](https://github.com/xiuguochen "Prof. Dr. Xiuguo Chen")**
+**[Yangsl](https://github.com/yslightobe "yslightobe"), [Wangyf](https://github.com/WangYF-learnmore "WangYF-learnmore"), Zhouwg, Wangxs and [Prof Chenxg](https://github.com/xiuguochen "Prof. Dr. Xiuguo Chen")**
 
 ### 参考文献
 
